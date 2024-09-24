@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursing BSC Computer Science. 
 
-- 🌱 I’m currently learning C/C++, Python, Web Development, Java.
+- 🌱 I’m currently learning Web Development, Java.
 
 - 🧭 I want to explore open source and give my contribution to projects. 
 
